@@ -1,0 +1,27 @@
+/* Write your CSS code here */
+.logoImage {
+  margin-right: 15px;
+  height: 60px;
+  margin-top: 10px;
+}
+.LogoContainer {
+  display: flex;
+  flex-direction: row;
+  font-style: roboto;
+}
+.HomeContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  list-style-type: none;
+  width: 250px;
+}
+.NavBar-Headings {
+  color: #551e53;
+  text-decoration: none;
+}
+.NavBarContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

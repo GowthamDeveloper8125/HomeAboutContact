@@ -1,0 +1,20 @@
+/* Write your CSS code here */
+/* Write your CSS code here */
+.MainContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+}
+.MainSubContainer {
+  align-self: center;
+  text-align: center;
+}
+.Image {
+  width: 300px;
+  height: 300px;
+}
+.TextColor {
+  font-size: 70px;
+  color: #551e53;
+}
